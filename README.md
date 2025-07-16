@@ -33,3 +33,13 @@ This is a simple E-Commerce REST API built with **Spring Boot**, **Spring Securi
 
 ## ⚙️ Project Structure
 
+com.ecommerce
+├── controller
+├── dto
+├── model
+├── repository
+├── security
+├── service
+│ └── impl
+└── EcommerceApplication.java
+
